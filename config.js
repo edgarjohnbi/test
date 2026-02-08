@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "yay!! im so lucky to have youuu",
-        message: "let's have a date @ Man Ho, Marriott Hotel, 7:00 PM. wear something nice :D",
+        message: "let's have a dinner date @ Man Ho, Marriott Hotel, 7:00 PM. wear something nice :D",
         emojis: "see u around bebi koooo! 💕"  // These will bounce around
     },
 
